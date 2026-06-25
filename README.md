@@ -8,11 +8,6 @@
 Um tema escuro, e com cores vibrantes, feito para desenvolvedores que apreciam contraste e destaque de sintaxe. 
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/seu-usuario/seu-repositorio?color=blueviolet" alt="License">
-  <img src="https://img.shields.io/github/stars/seu-usuario/seu-repositorio?style=social" alt="Stars">
-</p>
-
 ---
 
 ## 🗨️​ Instalação
@@ -26,6 +21,7 @@ Um tema escuro, e com cores vibrantes, feito para desenvolvedores que apreciam c
 
 <img width="738" height="183" alt="image" src="https://github.com/user-attachments/assets/e9f7d3da-f945-43a1-bee3-19d1c6574e9c" />
 
+---
 
 ## 📸 Capturas de Tela
 
@@ -47,6 +43,8 @@ Um tema escuro, e com cores vibrantes, feito para desenvolvedores que apreciam c
 <p align="center">
   <img width="100%" alt="Visualização Alternativa" src="https://github.com/user-attachments/assets/d2f08b19-4b5a-4b34-a692-3eac524b2b09" />
 </p>
+
+---
 
 ## 💜​ Contribuindo e Customizando
 
