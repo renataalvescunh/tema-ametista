@@ -1,0 +1,21 @@
+{
+  "name": "tema-ametista",
+  "displayName": "Tema Ametista",
+  "description": "Meu tema personalizado para o VS Code",
+  "version": "0.0.1",
+  "publisher": "Renata Alves",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+ "contributes": {
+  "themes": [
+    {
+      "label": "Tema Ametista",
+      "uiTheme": "vs-dark",
+      "path": "./tema/tema-ametista.json"
+    }
+  ]
+}
+
+  }
+
