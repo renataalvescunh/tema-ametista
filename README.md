@@ -5,7 +5,7 @@
 <h1 align="center">Tema Ametista</h1>
 
 <p align="center">
-Um tema escuro, e com cores vibrantes, feito para desenvolvedores que apreciam contraste e destaque de sintaxe. 
+Um tema escuro e com cores vibrantes. Feito para desenvolvedores que apreciam contraste e destaque de sintaxe. Fique à vontade para testá-lo ou usá-lo.
 </p>
 
 ---
